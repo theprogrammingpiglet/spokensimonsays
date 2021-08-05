@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/spokensimonsays/static/css/main.a617e044.chunk.css",
+    "main.js": "/spokensimonsays/static/js/main.d0350f0d.chunk.js",
+    "main.js.map": "/spokensimonsays/static/js/main.d0350f0d.chunk.js.map",
+    "runtime-main.js": "/spokensimonsays/static/js/runtime-main.155c3d38.js",
+    "runtime-main.js.map": "/spokensimonsays/static/js/runtime-main.155c3d38.js.map",
+    "static/js/2.b54c538c.chunk.js": "/spokensimonsays/static/js/2.b54c538c.chunk.js",
+    "static/js/2.b54c538c.chunk.js.map": "/spokensimonsays/static/js/2.b54c538c.chunk.js.map",
+    "static/js/3.b0eca995.chunk.js": "/spokensimonsays/static/js/3.b0eca995.chunk.js",
+    "static/js/3.b0eca995.chunk.js.map": "/spokensimonsays/static/js/3.b0eca995.chunk.js.map",
+    "index.html": "/spokensimonsays/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/spokensimonsays/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.b54c538c.chunk.js.LICENSE.txt": "/spokensimonsays/static/js/2.b54c538c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/spokensimonsays/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.155c3d38.js",
+    "static/js/2.b54c538c.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.d0350f0d.chunk.js"
+  ]
+}
